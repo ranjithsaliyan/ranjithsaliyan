@@ -1,5 +1,5 @@
 ### Hola 👋
-- 🔭 I’m currently working on Optimizing ISV Applications on OpenShift Container Platforms
+- 🔭 I’m currently working as Infrastructure Speciliast in IBM cloud, AWS, Azure Platforms
 - 😄 Pronouns: he/him/his
 
 
